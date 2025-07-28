@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="logo.png" height="120" />
+  <img src="Unchainers-Logo.png" height="120" />
   <h1>Unchainers Organization</h1>
   <p><strong>From ICP Hub Indonesia</strong></p>
   <p>Empowering digital citizens through Web3 and AI</p>
